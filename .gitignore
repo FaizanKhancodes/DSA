@@ -1,0 +1,33 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Compiled source
+*.class
+*.exe
+*.o
+*.out
+*.obj
+
+# Temporary files
+*.log
+*.tmp
+
+# Node (if you experiment with JS)
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+#others
+*.txt
+*.cph
